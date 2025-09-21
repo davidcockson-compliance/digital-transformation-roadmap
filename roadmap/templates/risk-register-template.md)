@@ -1,0 +1,5 @@
+# Risk Register: [Project Name]
+
+| Risk ID | Risk Description | Impact | Likelihood | Mitigation Plan |
+|---------|------------------|--------|------------|-----------------|
+| R-XX    | [Describe the risk] | [High/Medium/Low] | [High/Medium/Low] | [Steps to mitigate the risk] |
