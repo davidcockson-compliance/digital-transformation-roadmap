@@ -1,0 +1,29 @@
+# Project Templates
+
+This folder contains reusable templates to help maintain consistency and efficiency across all project documentation.
+
+## Blank Project Charter (`project-charter-template.md`)
+
+```markdown
+# Project Charter: [Project Name]
+
+**Project Name:** [Insert Project Name]
+
+**Date:** [Insert Date]
+
+**Project Goal:**
+[Describe the overall objective of the project and its value to the organization.]
+
+**Project Scope:**
+* **In Scope:**
+    * [List key deliverables and processes that are part of the project.]
+* **Out of Scope:**
+    * [List what is specifically not included in the project to prevent scope creep.]
+
+**Key Stakeholders:**
+* **Sponsor:** [Name, Title] - [Role]
+* **Project Manager:** [Name, Title] - [Role]
+* **Team Members:** [List other key team members and their roles.]
+
+**Success Metrics:**
+* [Define quantifiable metrics to measure the project's success. E.g., "Reduce process time by X%," "Increase data accuracy by Y%."]
