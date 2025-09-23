@@ -31,6 +31,4 @@ Good Governance: Reports must be signed off by a designated responsible person (
 Each requirement is enforceable as a condition of holding a UKGC licence, and non-compliance can lead to regulatory action, including fines or revocation.
 
 
-Regulatory Body	Key Reports	Formats	Deadlines	Submission	Key Data Fields	Unique Rules
-UKGC	Annual, Quarterly	FReM, UKGC	May/June, Quarterly	Portal	Financials, compliance, customer	Must align with responsible gambling
-guidelines			protection, tech safety	measures, affordability, AML
+
